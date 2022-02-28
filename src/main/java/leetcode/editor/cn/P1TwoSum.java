@@ -60,7 +60,7 @@ public class P1TwoSum{
         System.out.println(Arrays.toString(x));
     }
     
-    //leetcode submit region begin(Prohibit modification and deletion)
+    //main.java.leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
         public int[] twoSum(int[] nums, int target) {
             int[] ints = new int[2];
@@ -76,6 +76,6 @@ class Solution {
             return new int[0] ;
         }
 }
-//leetcode submit region end(Prohibit modification and deletion)
+//main.java.leetcode submit region end(Prohibit modification and deletion)
 
 }
